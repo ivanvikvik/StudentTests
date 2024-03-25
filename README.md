@@ -8,3 +8,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSdUCzWFJX4BX0KcuuVH7zqsJX_cM_zdfETnTlPW
 
 <br>Logic Test #13:
 https://docs.google.com/forms/d/e/1FAIpQLSffoxDhz_sVo6arcVUIX3ApP6FNe2hP3JbZiVAoUkDm8gFn5A/viewform?usp=sf_link
+<br>Logic Test #14:
+https://docs.google.com/forms/d/e/1FAIpQLSflwJNrKwVtXUA0ForxJ2k7BKGgnzDUQagwbOjsh-vuQsqaXA/viewform?usp=sf_link
