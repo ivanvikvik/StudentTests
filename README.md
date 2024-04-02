@@ -7,6 +7,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSc5EHKPHP5DcuSWlSy-hGjUUR0s9I1uzOjxMAp4
 https://docs.google.com/forms/d/e/1FAIpQLSdUCzWFJX4BX0KcuuVH7zqsJX_cM_zdfETnTlPWdTMuAqd5YA/viewform?usp=sf_link
 <br> Test 04. Relational Operations
 https://docs.google.com/forms/d/e/1FAIpQLScwEw_8a_Yyxlri3Q1ACkWJAwFT-cgsA_-AF0NI-InoTd2KMQ/viewform?usp=sf_link
+<br> Test 05. Logical Operations
+https://docs.google.com/forms/d/1Yu4FjgX6a_SUCFcWs_pYHweddIUkdZ68DtC8pHqyDLc/edit
 
 <br>Logic Test #13:
 https://docs.google.com/forms/d/e/1FAIpQLSffoxDhz_sVo6arcVUIX3ApP6FNe2hP3JbZiVAoUkDm8gFn5A/viewform?usp=sf_link
