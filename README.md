@@ -22,3 +22,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSdcu7V8Pyqg0bK4XOqqZhWukZUSuBBXAYf3MBn3
 https://docs.google.com/forms/d/e/1FAIpQLSepE2cjvSVq8Q6_h0h70ziFMxkLOKmtCNyU5UKKt1fHbkbLrg/viewform?usp=sf_link
 <br>Logic Test #17:
 https://docs.google.com/forms/d/e/1FAIpQLScbFZmi3v8rVVu9Kv3-N5HUUsqO1tTSLconKBwHSbCPynr8SQ/viewform?usp=sf_link
+<br>Logic Test #18:
+https://docs.google.com/forms/d/e/1FAIpQLSdYdtbhjPbJ2PT6SOKWyvNWI-HaRf6TyXH5LmKFcQOAgLLhvA/viewform?usp=sf_link
