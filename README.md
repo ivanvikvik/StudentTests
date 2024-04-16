@@ -11,6 +11,8 @@ https://docs.google.com/forms/d/e/1FAIpQLScwEw_8a_Yyxlri3Q1ACkWJAwFT-cgsA_-AF0NI
 https://docs.google.com/forms/d/1Yu4FjgX6a_SUCFcWs_pYHweddIUkdZ68DtC8pHqyDLc/edit
 <br> Test 06. Assignment Operations
 https://docs.google.com/forms/d/e/1FAIpQLSeA_1o0OBcfkpfmYOZm8zuavoR95aybgqvzfzRBmloziUjMjQ/viewform?usp=sf_link
+<br> Test 07. Conditional Statements (part 1)
+https://docs.google.com/forms/d/e/1FAIpQLSehw3IOLwVlQqqpm2luRh6mrb2Zae3ThWKypFTaKRtPEg89gA/viewform?usp=sf_link
 
 <br>Logic Test #13:
 https://docs.google.com/forms/d/e/1FAIpQLSffoxDhz_sVo6arcVUIX3ApP6FNe2hP3JbZiVAoUkDm8gFn5A/viewform?usp=sf_link
