@@ -15,6 +15,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSeA_1o0OBcfkpfmYOZm8zuavoR95aybgqvzfzRB
 https://docs.google.com/forms/d/e/1FAIpQLSehw3IOLwVlQqqpm2luRh6mrb2Zae3ThWKypFTaKRtPEg89gA/viewform?usp=sf_link
 <br> Test 08. Conditional Statements (part 2)
 https://docs.google.com/forms/d/e/1FAIpQLScPj-C-EcoGK3puRDnOw2LvxBStfBxtJF16dfMPtJWWzS6Bsw/viewform?usp=sf_link
+<br> Test 09. Loop Statements (part 1)
+https://docs.google.com/forms/d/e/1FAIpQLSf0bzY1Ff1rF9ZzAreP4ctGUVmJbnyy7dzNLR06youvwg9wGA/viewform?usp=sf_link
 
 <br>Logic Test #13:
 https://docs.google.com/forms/d/e/1FAIpQLSffoxDhz_sVo6arcVUIX3ApP6FNe2hP3JbZiVAoUkDm8gFn5A/viewform?usp=sf_link
