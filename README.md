@@ -34,3 +34,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSdYdtbhjPbJ2PT6SOKWyvNWI-HaRf6TyXH5LmKF
 https://docs.google.com/forms/d/e/1FAIpQLSfaWaS4ygJORI8rLYRpku9iMmMVUdEnq847Nft3nwI63njfnQ/viewform?usp=sf_link
 <br>Logic Test #20:
 https://docs.google.com/forms/d/e/1FAIpQLSdZ97Cf4wcPDPdmSLq9T7_7VI547PTb8vxMzciU196Gu3PoIw/viewform?usp=sf_link
+<br>Logic Test #21:
+https://docs.google.com/forms/d/e/1FAIpQLSeocPtJAbKdld1hOwh3rrJbrLA8AZg8sEd3Z5fFm5H6x2xQJw/viewform?usp=sf_link
