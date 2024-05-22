@@ -21,6 +21,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSf0bzY1Ff1rF9ZzAreP4ctGUVmJbnyy7dzNLR06
 https://docs.google.com/forms/d/e/1FAIpQLSeBrGTCGBr4EwHKbsbzMpAkmizDXJmXzzisLaZDrdkMoX-sMw/viewform?usp=sf_link
 <br> Test 11. Loop Statements (part 3)
 https://docs.google.com/forms/d/e/1FAIpQLScrzVhohvKcoVgFLxpNEyAW8vjZIsGbHMDXjZQBNpDbcONdCQ/viewform?usp=sf_link
+<br> Test 12. Static Arrays
+https://docs.google.com/forms/d/1kFNKjknSa9XPbsmxH3zdxy_coZnKDjFNGKc2PmI7yZk/edit
 
 <br>Logic Test #13:
 https://docs.google.com/forms/d/e/1FAIpQLSffoxDhz_sVo6arcVUIX3ApP6FNe2hP3JbZiVAoUkDm8gFn5A/viewform?usp=sf_link
