@@ -44,3 +44,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSdZ97Cf4wcPDPdmSLq9T7_7VI547PTb8vxMzciU
 https://docs.google.com/forms/d/e/1FAIpQLSeocPtJAbKdld1hOwh3rrJbrLA8AZg8sEd3Z5fFm5H6x2xQJw/viewform?usp=sf_link
 <br>Logic Test #22:
 https://docs.google.com/forms/d/1pQIRVEQo-J8fVG40qSCrsMwR-bs5U3tJix6UMnfkBpA/edit
+<br>Logic Test #23:
+https://docs.google.com/forms/d/1-gr18So3ywnFbGxGAlQU5cLzU7y583uiscIkHqOq6DA/edit
