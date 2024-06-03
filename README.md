@@ -46,3 +46,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSeocPtJAbKdld1hOwh3rrJbrLA8AZg8sEd3Z5fF
 https://docs.google.com/forms/d/1pQIRVEQo-J8fVG40qSCrsMwR-bs5U3tJix6UMnfkBpA/edit
 <br>Logic Test #23:
 https://docs.google.com/forms/d/1-gr18So3ywnFbGxGAlQU5cLzU7y583uiscIkHqOq6DA/edit
+<br>Logic Test #24:
+https://docs.google.com/forms/d/e/1FAIpQLSc2bdf5-_l_dUUR2Wet56nzbTe20oJj7JO22VoLkD0eytUlzA/viewform?usp=sf_link
