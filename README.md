@@ -23,6 +23,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSeBrGTCGBr4EwHKbsbzMpAkmizDXJmXzzisLaZD
 https://docs.google.com/forms/d/e/1FAIpQLScrzVhohvKcoVgFLxpNEyAW8vjZIsGbHMDXjZQBNpDbcONdCQ/viewform?usp=sf_link
 <br> Test 12. Static Arrays
 https://docs.google.com/forms/d/1kFNKjknSa9XPbsmxH3zdxy_coZnKDjFNGKc2PmI7yZk/edit
+<br> Test 13. C++and OOP
+https://docs.google.com/forms/d/e/1FAIpQLSeL-DDiHAKoHaZMhu87R86ZA4W3gofSHh36Q-LtD7i9IKviTg/viewform?usp=sf_link
+
 
 <br>Logic Test #13:
 https://docs.google.com/forms/d/e/1FAIpQLSffoxDhz_sVo6arcVUIX3ApP6FNe2hP3JbZiVAoUkDm8gFn5A/viewform?usp=sf_link
