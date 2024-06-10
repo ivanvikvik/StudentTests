@@ -51,3 +51,5 @@ https://docs.google.com/forms/d/1pQIRVEQo-J8fVG40qSCrsMwR-bs5U3tJix6UMnfkBpA/edi
 https://docs.google.com/forms/d/1-gr18So3ywnFbGxGAlQU5cLzU7y583uiscIkHqOq6DA/edit
 <br>Logic Test #24:
 https://docs.google.com/forms/d/e/1FAIpQLSc2bdf5-_l_dUUR2Wet56nzbTe20oJj7JO22VoLkD0eytUlzA/viewform?usp=sf_link
+<br>Logic Test #25:
+https://docs.google.com/forms/d/e/1FAIpQLSdPIjikrRsXgs8QxaPaKNS6loZZWG8swq021_cvQQFtQk3ZJQ/viewform?usp=sf_link
