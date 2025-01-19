@@ -4,4 +4,4 @@
 <hr>
 
 # List of C/C++ Language Syntax Tests
-<br>Test 01. Basic of Computer Science:
+<br>Test 01. Basic of Computer Science (part 1): https://forms.gle/nmGt7rCCuA2opXX2A
