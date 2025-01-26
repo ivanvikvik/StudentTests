@@ -2,6 +2,7 @@
 <br>Logic Test 01: https://forms.gle/fTGRJDasybo2HaoQ7
 <br>Logic Test 02: https://forms.gle/n1QooiddUo47cEmx8
 <br>Logic Test 03: https://forms.gle/sZMExjS7N37aRyWT7
+<br>Logic Test 04: https://forms.gle/ktjjKZVB3RAm4a8DA
 <hr>
 
 # List of C/C++ Language Syntax Tests
