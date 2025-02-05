@@ -3,6 +3,7 @@
 <br>Logic Test 02: https://forms.gle/n1QooiddUo47cEmx8
 <br>Logic Test 03: https://forms.gle/sZMExjS7N37aRyWT7
 <br>Logic Test 04: https://forms.gle/ktjjKZVB3RAm4a8DA
+<br>Logic Test 06: https://forms.gle/QAECdyq6ENJkVW3P6
 <hr>
 
 # List of C/C++ Language Syntax Tests
