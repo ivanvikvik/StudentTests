@@ -5,6 +5,7 @@
 <br>Logic Test 04: https://forms.gle/ktjjKZVB3RAm4a8DA
 <br>Logic Test 05: https://forms.gle/YJZgMgzKRqWw6pby9
 <br>Logic Test 06: https://forms.gle/QAECdyq6ENJkVW3P6
+<br>Logic Test 07: https://forms.gle/cEuUQ5J7FusREexF6
 <hr>
 
 # List of C/C++ Language Syntax Tests
