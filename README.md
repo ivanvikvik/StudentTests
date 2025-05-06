@@ -12,6 +12,13 @@
 <br>Logic Test 11: https://forms.gle/1PfMmDiwKCdwgE1L8
 <br>Logic Test 12: https://forms.gle/Pr7qwU1sMWSHZX9c7
 <br>Logic Test 13: https://forms.gle/GfCAQGrFMM9ZMHGH7
+<br>Logic Test 14: https://forms.gle/JWjdk3SLyVwZrSkt6
+<br>Logic Test 15: https://forms.gle/DRjZtHNVEMFfLDe26
+<br>Logic Test 16: https://forms.gle/xcGkoQLbwdg7b1U88
+<br>Logic Test 17: https://forms.gle/g3KEftrGKaDw1c6T9
+<br>Logic Test 18: https://forms.gle/5ZKuNw2icwsQQUkx5
+<br>Logic Test 19: https://forms.gle/1NRPcWMuX7ymrdQG7
+<br>Logic Test 20: https://forms.gle/p9oykujkdLJ6XGSFA
 <hr>
 
 # List of C/C++ Language Syntax Tests
